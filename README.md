@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89f7fe,100:66a6ff&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=kurimogo's%20GitHub%20profile&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffeb3b,30:ff9800,60:ff5722,100:f44336&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=kurimogo's%20GitHub%20profile&descAlignY=55&descAlign=50" width="100%" />
 </div>
 <div align="center">
   <table border="0" width="100%">
@@ -18,5 +18,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kurimogo&theme=flat&no-frame=true&row=1&column=8" alt="Trophy" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:66a6ff,100:89f7fe&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:f44336,40:ff5722,70:ff9800,100:ffeb3b&section=footer" width="100%" />
 </div>
